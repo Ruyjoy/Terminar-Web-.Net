@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Menu"  description="Menu">
+    <siteMapNode url="" title="Compañías"  description="Compañías">
+    <siteMapNode url="~/ABMCompanias.aspx" title="Mantenimiento de Compañías" description="ABM Compañías"  />
+    </siteMapNode>
+
+  <siteMapNode url="" title="Empleados" description="Empleados" >
+    <siteMapNode url="~/ABMEmpleado.aspx" title="Mantenimiento de Empleados" description="ABM Empleados"  />
+  </siteMapNode>
+    
+    <siteMapNode url="" title="Terminales" description="Terminales" >
+      <siteMapNode url="~/ABMTerminales.aspx" title="Mantenimiento de Terminales" description="ABM Terminales"  />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Viajes" description="Viajes" >
+      <siteMapNode url="~/ABMViajesNacionales.aspx" title="Mantenimiento de Viajes Nacionales" description="ABM Viajes Nacionales"  />
+      <siteMapNode url="~/ABMViajesInternacionales.aspx" title="Mantenimiento de Viajes Internacionales" description="ABM Viajes Internacionales"  />
+    </siteMapNode>
+    
+ </siteMapNode>
+</siteMap>

@@ -1,0 +1,87 @@
+C:\Users\Joe\Desktop\Nueva carpeta (3)\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\Nueva carpeta (3)\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\Nueva carpeta (3)\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\Nueva carpeta (3)\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Obligatorio 2018\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Obligatorio 2018\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Obligatorio 2018\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Obligatorio 2018\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Obligatorio 2018\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\04_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\04_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\04_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\04_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\05_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\05_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\05_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\05_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Ultimo\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Ultimo\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Ultimo\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Ultimo\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Ultimo\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\07_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\07_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\07_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\07_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\08_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\08_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\08_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\08_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\12_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\12_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\12_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\12_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\14_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\14_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\14_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\14_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\14_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\14_07_Unificado\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\14_07_Unificado\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\14_07_Unificado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\14_07_Unificado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\16_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\16_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\16_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\16_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\17_07_Unificado\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\17_07_Unificado\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\17_07_Unificado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\17_07_Unificado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\17_07_Unificado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\19_07 ultimo\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\19_07 ultimo\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\19_07 ultimo\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\19_07 ultimo\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\21_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\21_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\21_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\21_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\28_07 Corregido\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\28_07 Corregido\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\28_07 Corregido\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\28_07 Corregido\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\28_07 Corregido\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\28_07 Corregido_probado\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\28_07 Corregido_probado\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\28_07 Corregido_probado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\28_07 Corregido_probado\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\31_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\31_07\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\31_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\31_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\31_07\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\02_08 Corregido\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\02_08 Corregido\Obligatorio 2018\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\02_08 Corregido\Obligatorio 2018\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\02_08 Corregido\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\02_08 Corregido\Obligatorio 2018\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
